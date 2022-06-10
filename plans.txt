@@ -1,0 +1,7 @@
+1. make a route for multiple choice questions
+2. make a route for true or false questions
+3. make a route for short answer questions 
+4. make a route for fill in the blank questions use insert functionality
+
+make a selector for different subjects
+
